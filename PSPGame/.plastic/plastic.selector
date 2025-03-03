@@ -1,0 +1,4 @@
+repository "PSPGame/PSPGame@5773836281163@cloud"
+  path "/"
+    br "/main"
+    co "/main"
